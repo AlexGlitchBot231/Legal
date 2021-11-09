@@ -66,5 +66,5 @@ If you make a request, we have one month to respond to you. If you would like to
 
 Children's Information
 ----------------------
-As per [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) under 13s or any person under the age listed [here](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) in your specific country can not use the platform
-As such, we do not knowingly store or collect Personally Identifiable Information of minors
+As per [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) under 13s or any person under the age listed [here](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) in your specific country can not use the platform,
+as such, we do not knowingly store or collect Personally Identifiable Information of minors
