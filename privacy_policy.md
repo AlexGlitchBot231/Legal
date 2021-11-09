@@ -17,7 +17,6 @@ Information we collect
 
 * Message Content (including attachments)
 * Nickname changes (including previously set nicknames)
-* 
 
 How we use your information
 ---------------------------
